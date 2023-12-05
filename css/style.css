@@ -73,7 +73,7 @@ header {
   border-radius: 10px 10px 0px 0px;
 }
 table {
-  width: 90%;
+  width: 95%;
   margin: 0.5rem auto;
   border-collapse: collapse;
 }
@@ -107,7 +107,7 @@ table th {
   position: relative;
   background: white;
   text-align: center;
-  width: 312px;
+  width: 320px;
   margin: 2rem auto;
   /* padding-top: 1rem; */
   padding-bottom: 1rem;
@@ -142,7 +142,7 @@ table th {
 }
 
 input {
-  width: 10rem;
+  width: 12rem;
   height: 2.2rem;
   outline: none;
   text-indent: 0.5rem;
