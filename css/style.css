@@ -96,7 +96,7 @@ table th {
   left: 0;
   top: 0;
   bottom: 0;
-  padding-top: 50px;
+  padding-top: 250px;
   display: none;
   background: #00000067;
 }
@@ -122,7 +122,6 @@ table th {
 }
 @keyframes animatetop {
   from {
-    top: -300px;
     opacity: 0;
   }
   to {
